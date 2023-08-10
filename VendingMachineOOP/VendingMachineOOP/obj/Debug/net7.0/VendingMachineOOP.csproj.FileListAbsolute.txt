@@ -1,0 +1,15 @@
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.exe
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.deps.json
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.runtimeconfig.json
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.dll
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.pdb
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.csproj.AssemblyReference.cache
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.AssemblyInfoInputs.cache
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.AssemblyInfo.cs
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.csproj.CoreCompileInputs.cache
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.dll
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\refint\VendingMachineOOP.dll
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.pdb
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.genruntimeconfig.cache
+D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\ref\VendingMachineOOP.dll
