@@ -1,32 +1,25 @@
-﻿class BeverageMachine : VendingMachine, IHeater, IFreezer
+﻿using VendingMachineOOP;
+
+public class BeverageMachine : VendingMachine, IFreezer
 {
-    public void Heat(Item item)
+    public BeverageMachine() : base()
     {
-        Console.WriteLine("Beverage " + item.Name + " is heated");
+        ItemFactory = new BeverageFactory();
     }
+    public ItemFactory ItemFactory { get; }
     public void Freeze(Item item)
     {
-        Console.WriteLine("Beverage " + item.Name + " is chilled");
+        Console.WriteLine(item.Name + " has been frozen");
     }
-    public override void DepositItemAndMoney(Item item)
+
+    public override void LoadItem(string name, int cost)
     {
-        if (Money <= 0 || Money < item.Cost)
-        {
-            throw new Exception("Please Insert Money!");
-        }
-        if (item.Name == "" || !(item.Name == "Beverage1" || item.Name == "Beverage2" || item.Name == "Beverage3" || item.Name == "Beverage4" || item.Name == "Beverage5"))
-        {
-            throw new Exception("Please select a valid Item!");
-        }
-        if(item.Name == "Beverage1" || item.Name == "Beverage2" || item.Name == "Beverage3")
-        {
-            Heat(item);
-        }
-        else if(item.Name == "Beverage4" || item.Name == "Beverage5")
-        {
-            Freeze(item);
-        }
-        Console.WriteLine("Your Beverage of " + item.Name + " has been deposited. Here's your change: " + (Money - item.Cost));
-        Money = 0;
+        Items.Add(ItemFactory.CreateItem(name, cost));
+    }
+
+    protected override Item PrepareItem(Item item)
+    {
+        Freeze(item);
+        return item;
     }
 }

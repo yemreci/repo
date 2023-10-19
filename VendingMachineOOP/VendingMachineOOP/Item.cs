@@ -1,14 +1,13 @@
-﻿class Item
+﻿namespace VendingMachineOOP
 {
-    private readonly string _name;
-    private readonly int _cost;
-    public Item(string name, int cost)
+    public abstract class Item
     {
-        _name = name;
-        _cost = cost;
+        public string Name { get; }
+        public int Cost { get; }
+        public Item(string name, int cost)
+        {
+            Name = name;
+            Cost = cost;
+        }
     }
-
-    public string Name => _name;
-
-    public int Cost => _cost;
 }

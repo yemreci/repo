@@ -3,7 +3,6 @@ D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.runtimeconfig.json
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.dll
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\bin\Debug\net7.0\VendingMachineOOP.pdb
-D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.csproj.AssemblyReference.cache
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.GeneratedMSBuildEditorConfig.editorconfig
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.AssemblyInfoInputs.cache
 D:\DerslerNew\.NET\GitHub\repo\VendingMachineOOP\VendingMachineOOP\obj\Debug\net7.0\VendingMachineOOP.AssemblyInfo.cs
